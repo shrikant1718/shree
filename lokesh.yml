@@ -1,0 +1,5 @@
+server:
+  application:
+    name: lokesh
+  port: 8086  
+    
