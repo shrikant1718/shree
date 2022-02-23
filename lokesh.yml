@@ -1,5 +1,5 @@
-server:
+spring:
   application:
     name: lokesh
-  port: 8086  
-    
+server:
+  port: 8086
