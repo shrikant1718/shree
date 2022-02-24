@@ -7,8 +7,8 @@ spring:
       routes:
       - uri: http://localhost:8082/
         predicates: 
-        - Path=/employees/**
+        - path=/employees/**
       - uri: http://localhost:8080/
         predicated:
-        - Path=/template/emp/**
+        - path=/template/emp/**
       
