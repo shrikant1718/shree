@@ -8,6 +8,6 @@ spring:
         predicates: 
         - Path=/employees/**
       - uri: http://localhost:8084/
-        predicated:
+        predicates:
         - Path=/template/emp/**
       
