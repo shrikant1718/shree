@@ -1,14 +1,13 @@
 server:
   port: 8088
-  
 spring:
   cloud:
     gateway:
       routes:
       - uri: http://localhost:8082/
         predicates: 
-        - path=/employees/**
+        - Path=/employees/**
       - uri: http://localhost:8080/
         predicated:
-        - path=/template/emp/**
+        - Path=/template/emp/**
       
