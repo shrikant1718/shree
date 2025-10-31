@@ -1,0 +1,54 @@
+4 cust -
+
+aus
+germany
+switzerland
+Italy
+
+apps -
+FNOL
+CTR
+SPP(service provider portal )/GCPP
+claimnet
+POI
+
+Support 
+L1 L2 L3
+
+F group
+show link
+
+
+
+Minimum info
+
+Dear Team,
+ 
+Please be so kind and look in to below issue
+ 
+ITMP AUS|  
+ 
+Business unit (Country): BMP Australia
+ 
+Priority of this issue : Regular
+ 
+Incident date and time :
+ 
+Affected GIAM users and ABS user ID’s : JDBB
+ 
+Affected User : 
+ 
+Affected User Email:
+ 
+Affected User Phone :
+ 
+ 
+Problem: 
+ 
+Steps Taken :
+
+ 
+please find attachments
+ 
+Best Regards
+Your Name 
